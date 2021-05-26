@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning: Advanced Python, Javascript, Data structures & Algorythms, 
       Machine Learning, Neural Networks
       
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any javaScript or Python Based projects
+
+- 📫 How to reach me : Email
 
 <!---
 Baaejh/Baaejh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
